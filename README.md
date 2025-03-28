@@ -68,5 +68,5 @@ snappymob-challenge/
                 ├── ChallengeB.java
                 └── Main.java
 
-👤 Author Notes
+👤 Notes
 I tested everything locally and inside Docker to ensure the file size, object types, and classification outputs are handled correctly.
